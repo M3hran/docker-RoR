@@ -1,4 +1,4 @@
-NAME = m3hran/base.ruby
+NAME = m3hran/ror
 VERSION = 0.2.4
 C_NAME = base-ruby
 
